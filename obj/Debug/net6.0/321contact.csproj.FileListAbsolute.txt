@@ -1,0 +1,15 @@
+C:\Users\Trevor\source\repos\321contact\bin\Debug\net6.0\321contact.exe
+C:\Users\Trevor\source\repos\321contact\bin\Debug\net6.0\321contact.deps.json
+C:\Users\Trevor\source\repos\321contact\bin\Debug\net6.0\321contact.runtimeconfig.json
+C:\Users\Trevor\source\repos\321contact\bin\Debug\net6.0\321contact.dll
+C:\Users\Trevor\source\repos\321contact\bin\Debug\net6.0\321contact.pdb
+C:\Users\Trevor\source\repos\321contact\obj\Debug\net6.0\321contact.csproj.AssemblyReference.cache
+C:\Users\Trevor\source\repos\321contact\obj\Debug\net6.0\321contact.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Trevor\source\repos\321contact\obj\Debug\net6.0\321contact.AssemblyInfoInputs.cache
+C:\Users\Trevor\source\repos\321contact\obj\Debug\net6.0\321contact.AssemblyInfo.cs
+C:\Users\Trevor\source\repos\321contact\obj\Debug\net6.0\321contact.csproj.CoreCompileInputs.cache
+C:\Users\Trevor\source\repos\321contact\obj\Debug\net6.0\321contact.dll
+C:\Users\Trevor\source\repos\321contact\obj\Debug\net6.0\refint\321contact.dll
+C:\Users\Trevor\source\repos\321contact\obj\Debug\net6.0\321contact.pdb
+C:\Users\Trevor\source\repos\321contact\obj\Debug\net6.0\321contact.genruntimeconfig.cache
+C:\Users\Trevor\source\repos\321contact\obj\Debug\net6.0\ref\321contact.dll
